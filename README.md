@@ -1,1 +1,1 @@
-This is the simplest portfolio website. This developed using the bootstrap framework.
+This is the simple portfolio website. This was developed using the HTML, css with the help of bootstrap framework.
